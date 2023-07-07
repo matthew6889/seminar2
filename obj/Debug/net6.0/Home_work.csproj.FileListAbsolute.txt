@@ -1,0 +1,15 @@
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.csproj.AssemblyReference.cache
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.AssemblyInfoInputs.cache
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.AssemblyInfo.cs
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.csproj.CoreCompileInputs.cache
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\bin\Debug\net6.0\Home_work.exe
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\bin\Debug\net6.0\Home_work.deps.json
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\bin\Debug\net6.0\Home_work.runtimeconfig.json
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\bin\Debug\net6.0\Home_work.dll
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\bin\Debug\net6.0\Home_work.pdb
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.dll
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\refint\Home_work.dll
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.pdb
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\Home_work.genruntimeconfig.cache
+D:\Курс C# GeekBrains\Знакомство с языками программирования (семинары)\seminar2\Home_work\obj\Debug\net6.0\ref\Home_work.dll
