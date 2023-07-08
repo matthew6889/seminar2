@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 // using System.Collections.Generic;
 // using System.Linq;
 // using System.Text;
@@ -20,8 +20,12 @@ namespace HomeworkForTheSecondLecture
         {
             Console.Write("напишите трёхзначное число: ");
             int a = Convert.ToInt32(Console.ReadLine());
-            int a2 = (a % 100) / 10;
-            Console.WriteLine(a2);
+            if (a > 99 && a < 1000)
+            {
+                int a2 = (a % 100) / 10;
+                Console.WriteLine(a2);
+            }
+            else Console.WriteLine("некорректное число");
         }
 
         static void task13()
@@ -30,17 +34,17 @@ namespace HomeworkForTheSecondLecture
           78 -> третьей цифры нет
           32679 -> 6*/
         {
-            long a = new Random().Next();
+            int a = new Random().Next();
             // Console.Write("Введите заданное число: ");
             // long a = Convert.ToInt32(Console.ReadLine()); -- Для возможности вводить самому
-            long b = a;
+            int b = a;
             if (a >= 100)
             {
                 while (a > 999)
                 {
                     a = a / 10;
                 }
-                long result = a % 10;
+                int result = a % 10;
                 Console.WriteLine($"{b} -> {result}");
             }
             else Console.WriteLine($"{b} -> третьей цифры нет");
@@ -54,9 +58,9 @@ namespace HomeworkForTheSecondLecture
         {
             Console.Write("напишите цифру: ");
             int a = Convert.ToInt32(Console.ReadLine());
+            if (a <= 5 && a >= 1) Console.WriteLine($"{a} -> нет");
             if (a == 6 || a == 7) Console.WriteLine($"{a} -> да");
-            else Console.WriteLine($"{a} -> нет");
-
+            if (a > 7 || a < 1) Console.WriteLine("такого дня недели нет");
         }
 
     }
